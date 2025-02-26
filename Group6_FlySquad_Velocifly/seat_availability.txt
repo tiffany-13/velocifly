@@ -1,0 +1,72 @@
+Destination: Miri
+Business Seat Remaining: 29
+Economy Seat Remaining: 70
+
+Destination: Sibu
+Business Seat Remaining: 29
+Economy Seat Remaining: 70
+
+Destination: Mukah
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Bintulu
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Limbang
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Tanjung_Manis
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Seridan
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Bario
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Sukang
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Lawas
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Lellang
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Semado
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Marudi
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Mulu
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Ba_Kelalan
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Akah
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Belaga
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+
+Destination: Long_Banga
+Business Seat Remaining: 30
+Economy Seat Remaining: 70
+

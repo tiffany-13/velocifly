@@ -1,0 +1,37 @@
+~~~~~~~~~~ Purchase History ~~~~~~~~~~
+Destination: Sibu
+Flight Number: VF3443
+Departure Time: 9:00a.m. - 9:40a.m.
+Duration: 40m
+Flight Type: Non-stop
+Guest Details:
+Guest 1:
+  Name: Tiffany Lee Sze Thing
+  IC: 060513130248
+  Age: 18
+  Flight Class: Business
+  Ticket Price: RM 227.50
+  Meal Preferences: Nasi Lemak, Teh Tarik
+  Meal Total Price: RM 10.00
+  Luggage Weight: 0 kg
+  Luggage Total Price: RM 0.00
+
+
+~~~~~~~~~~ Purchase History ~~~~~~~~~~
+Destination: Miri
+Flight Number: VF2354
+Departure Time: 10:00a.m. - 11:05a.m.
+Duration: 1h 5m
+Flight Type: Non-stop
+Guest Details:
+Guest 1:
+  Name: Andrea Wong Shun Xu
+  IC: 111111111111
+  Age: 12
+  Flight Class: Business
+  Ticket Price: RM 214.20
+  Meal Preferences: Nasi Lemak
+  Meal Total Price: RM 7.00
+  Luggage Weight: 1 kg
+  Luggage Total Price: RM 50.00
+
